@@ -2,8 +2,8 @@
 
 <a href="https://www.sololevelingsimulator.tech" target="_blank"><img src="https://cdn.discordapp.com/attachments/712826938476986409/964427906216505364/Cover-Patreon.png"  width="100%" /></a>
 
-# Solo Leveling Simulator
-**An RPG Discord bot**
+# World Hunters Association
+**Solo Leveling Simulator Team**
 
 [![Support Server](https://discord.com/api/guilds/724186681124716544/embed.png?style=banner2)](https://discord.gg/bdC2UXz)
 
